@@ -7,7 +7,7 @@ actor_hash = {name: "Dwayne The Rock Johnson"}
 end
 
 def monopoly
-	monopoly = {railroads:{}}
+	monopoly = {railroads:{pieces:4, name:{}, rent_in_dollars:{}}}
 
 end
 
